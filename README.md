@@ -1,1 +1,1 @@
-# Git-1---Individual-Setup-
+Repository for git setup, Sahasra Thirakala
